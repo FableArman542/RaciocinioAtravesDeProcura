@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.3" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <interface id="1" language="java" name="pee.ProcuraHeur" project="IASA TP2" file="/IASA TP2/src/pee/ProcuraHeur.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="338" y="504"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="2" language="java" name="pee.mecProc.No" project="IASA TP2" file="/IASA TP2/src/pee/mecProc/No.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1320" y="359"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="pee.melhorprim.ProcuraCustoUnif" project="IASA TP2" 
+    file="/IASA TP2/src/pee/melhorprim/ProcuraCustoUnif.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1724" y="350"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="pee.mecProc.mem.MemoriaProcura" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/mem/MemoriaProcura.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1195" y="130"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="pee.melhorprim.ProcuraSofrega" project="IASA TP2" 
+    file="/IASA TP2/src/pee/melhorprim/ProcuraSofrega.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="287" y="121"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="6" language="java" name="pee.modprob.Operador" project="IASA TP2" 
+    file="/IASA TP2/src/pee/modprob/Operador.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1325" y="601"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="7" language="java" name="pee.mecProc.mem.MemoriaLIFO" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/mem/MemoriaLIFO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="789" y="255"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="pee.prof.ProcuraProfIter" project="IASA TP2" 
+    file="/IASA TP2/src/pee/prof/ProcuraProfIter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1900" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="9" language="java" name="pee.PassoSolucao" project="IASA TP2" 
+    file="/IASA TP2/src/pee/PassoSolucao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="982" y="427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="10" language="java" name="pee.modprob.Estado" project="IASA TP2" 
+    file="/IASA TP2/src/pee/modprob/Estado.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1524" y="599"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="pee.mecProc.ProblemaHeur" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/ProblemaHeur.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1740" y="605"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="pee.Percurso" project="IASA TP2" file="/IASA TP2/src/pee/Percurso.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="595" y="323"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="pee.melhorprim.ProcuraAA" project="IASA TP2" 
+    file="/IASA TP2/src/pee/melhorprim/ProcuraAA.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="404" y="186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="pee.mecProc.ProcuraMelhorPrim" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/ProcuraMelhorPrim.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="917" y="-209"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="pee.mecProc.mem.MemoriaFIFO" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/mem/MemoriaFIFO.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="916" y="287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="pee.mecProc.Problema" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/Problema.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1516" y="350"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="pee.prof.ProcuraProf" project="IASA TP2" 
+    file="/IASA TP2/src/pee/prof/ProcuraProf.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1897" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="pee.larg.ProcuraLarg" project="IASA TP2" 
+    file="/IASA TP2/src/pee/larg/ProcuraLarg.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2120" y="103"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="pee.mecProc.MecanismoProcura" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/MecanismoProcura.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1538" y="-108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="20" language="java" name="pee.modprob.Solucao" project="IASA TP2" 
+    file="/IASA TP2/src/pee/modprob/Solucao.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="595" y="580"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="21" language="java" name="pee.Procura" project="IASA TP2" file="/IASA TP2/src/pee/Procura.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2009" y="598"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="22" language="java" name="pee.mecProc.MemoriaPrioridade" project="IASA TP2" 
+    file="/IASA TP2/src/pee/mecProc/MemoriaPrioridade.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1106" y="287"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="23">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="24" name="operadores"/>      
+      <multiplicity id="25" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="26">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <association id="27">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="28" name="antecessor"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <realization id="31">    
+    <bendpoint x="2017" y="247"/>    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="32">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <realization id="33">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="9"/>  
+  </realization>  
+  <generalization id="34">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="35">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="20"/>  
+  </realization>  
+  <association id="36">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="37" name="fronteira"/>      
+      <multiplicity id="38" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="40" name="memoriaProcura"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <realization id="43">    
+    <bendpoint x="2038" y="247"/>    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="14"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="7"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <realization id="46">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="47">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="48" name="estado"/>      
+      <multiplicity id="49" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="51" name="explorados"/>      
+      <multiplicity id="52" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="53">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="4"/>  
+  </generalization>  
+  <generalization id="54">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="55">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="56" name="estadoInicial"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <bendpoint x="1451" y="54"/>    
+    <end type="SOURCE" refId="19" navigable="false">      
+      <attribute id="59" name="problema"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="62" name="percurso"/>      
+      <multiplicity id="63" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="16"/>  
+  </generalization>  
+  <realization id="65">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="1"/>  
+  </realization>  
+  <association id="66">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="67" name="operador"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="69">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="21"/>  
+  </realization>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
